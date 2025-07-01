@@ -46,7 +46,7 @@ ceramica-main/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/ceramica.git
+git clone https://github.com/prajwalk23/ceramica.git
 cd ceramica-main
 npm install
 ```
